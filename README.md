@@ -33,5 +33,5 @@ I'm a passionate developer who loves building robust applications from frontend 
   <img src="https://github-readme-stats.vercel.app/api?username=RN-1007&show_icons=true&theme=tokyonight" alt="Rayhan's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RN-1007&theme=tokyonight" alt="Rayhan's GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/RN-1007/RN-1007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
