@@ -1,6 +1,6 @@
 # Hi there, I'm Rayhan Nafish! 👋
 
-**Informatics Student @ UNESA | Fullstack Developer**
+**Informatics Student @ UNESA | Fullstack Developer | Project Manager**
 
 I'm a passionate developer who loves building robust applications from frontend to backend. I enjoy working with modern frameworks and exploring advanced software engineering principles like Clean Architecture. 
 
@@ -8,7 +8,6 @@ I'm a passionate developer who loves building robust applications from frontend 
 
 - 🔭 I’m currently focused on building scalable web and mobile apps using **Next.js, React, Laravel, Express, and Flutter**.
 - 🌱 I’m deeply exploring AI integrations, including **LLMs, RAG architectures**, and object detection (YOLO).
-- ⚙️ My daily driver and development environment is customized on **Arch Linux**.
 - 💡 I frequently participate in hackathons to validate technical prototypes and business ideas.
 
 ### 🛠️ Languages and Tools
@@ -25,7 +24,7 @@ I'm a passionate developer who loves building robust applications from frontend 
 ### 🚀 Featured Projects
 
 * **SiAnjab:** An HRIS (Human Resource Information System) web application built with Laravel and Livewire for efficient government task management.
-* **PundiNikah:** A unified fintech mobile application prototype designed for pre-marital and post-marital financial planning.
+* **Unified:** A unified fintech mobile application prototype designed for pre-marital and post-marital financial planning.
 * **U-Help:** A comprehensive web-based platform providing general assistance services for university students.
 
 ### 📊 GitHub Stats
@@ -34,5 +33,5 @@ I'm a passionate developer who loves building robust applications from frontend 
   <img src="https://github-readme-stats.vercel.app/api?username=RN-1007&show_icons=true&theme=tokyonight" alt="Rayhan's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RN-1007&theme=tokyonight" alt="Rayhan's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RN-1007&theme=tokyonight" alt="Rayhan's GitHub Streak" />
 </p>
