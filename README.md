@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Rayhan Nafish! 👋
 
-<!--
-**RN-1007/RN-1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Informatics Student @ UNESA | Fullstack Developer**
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves building robust applications from frontend to backend. I enjoy working with modern frameworks and exploring advanced software engineering principles like Clean Architecture. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently focused on building scalable web and mobile apps using **Next.js, React, Laravel, Express, and Flutter**.
+- 🌱 I’m deeply exploring AI integrations, including **LLMs, RAG architectures**, and object detection (YOLO).
+- ⚙️ My daily driver and development environment is customized on **Arch Linux**.
+- 💡 I frequently participate in hackathons to validate technical prototypes and business ideas.
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+</p>
+
+### 🚀 Featured Projects
+
+* **SiAnjab:** An HRIS (Human Resource Information System) web application built with Laravel and Livewire for efficient government task management.
+* **PundiNikah:** A unified fintech mobile application prototype designed for pre-marital and post-marital financial planning.
+* **U-Help:** A comprehensive web-based platform providing general assistance services for university students.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RN-1007&show_icons=true&theme=tokyonight" alt="Rayhan's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RN-1007&theme=tokyonight" alt="Rayhan's GitHub Streak" />
+</p>
